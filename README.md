@@ -3,7 +3,7 @@ Beğendiğim Sağlam VPN Listesi.
 
 - Proton VPN -
 - https://protonvpn.com/
-- 
+
 - IVPN Privacy 
 - https://www.ivpn.net/privacy-guides
 
